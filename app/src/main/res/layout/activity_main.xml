@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.dikeledi.miwork.MainActivity">
+
+    <TextView
+        android:id="@+id/numbers_id"
+        style="@style/categoryStyle"
+        android:background="@color/numbersColor"
+        android:text="@string/num"
+        android:onClick="openNumbers"/>
+
+    <TextView
+        android:id="@+id/family_id"
+        style="@style/categoryStyle"
+        android:background="@color/familyColor"
+        android:text="@string/fam"
+        android:onClick="openFamily"/>
+
+    <TextView
+        android:id="@+id/colors_id"
+        style="@style/categoryStyle"
+        android:background="@color/colorColor"
+        android:text="@string/col"
+        android:onClick="openColor"/>
+
+    <TextView
+        android:id="@+id/phrase_id"
+        style="@style/categoryStyle"
+        android:background="@color/phraseColor"
+        android:text="@string/phr"
+        android:onClick="openPhrase"/>
+
+</LinearLayout>

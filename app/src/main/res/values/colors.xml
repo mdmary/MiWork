@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-->android basic colors<-->
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#795548</color>
+    <color name="colorAccent">#795548</color>
+
+    <!-->MiWork button Colors<-->
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="numbersColor">#E65100</color>
+    <color name="familyColor">#00C853</color>
+    <color name="colorColor">#880E4F</color>
+    <color name="phraseColor">#2979FF</color>
+
+</resources>

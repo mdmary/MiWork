@@ -1,0 +1,12 @@
+<resources>
+
+    <!-->app name<-->
+    <string name="app_name">MiWork</string>
+
+    <!-->defined strings<-->
+    <string name="num">Numbers</string>
+    <string name="fam">Family Members</string>
+    <string name="col">Colors</string>
+    <string name="phr">Phrase</string>
+
+</resources>
