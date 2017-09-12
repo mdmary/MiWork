@@ -17,6 +17,7 @@ import static com.example.dikeledi.miwork.R.layout.word_list;
 public class Colors extends AppCompatActivity {
 
     private MediaPlayer mMediaPlayer;
+    int k = 5;
     private MediaPlayer.OnCompletionListener mOnCompletionListener = new  MediaPlayer.OnCompletionListener(){
         @Override
         public void onCompletion(MediaPlayer mp) {
